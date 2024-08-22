@@ -8,8 +8,8 @@ body{
     height: 450px;
     background-color: #bebebe;
     margin: 250px auto;  
-    padding: 10px;
-    grid-template-columns: 1fr 1fr;
+    padding: 8px;
+    grid-template-columns: 1fr;
     display: grid;
 
 }
